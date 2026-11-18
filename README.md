@@ -112,4 +112,14 @@ gösteren 30 saniyelik video: [video/demo.mp4](video/demo.mp4)
 
 ### Öğrencinin kendi katkıları
 
-[BURAYI ÖĞRENCİ DOLDURACAK]
+- Projenin konusunu ve kapsamını belirledim: görev takip sistemi, veri modeli
+  (başlık, ders, açıklama, öncelik, durum, son tarih) ve ders listesi.
+- Ödev şartlarını yapay zekâya ayrıntılı bir istem olarak yazdım: framework ve veritabanı
+  kullanılmaması, ekleme/silmenin POST, filtrelemenin GET ile yapılması, `htmlspecialchars()`
+  ile güvenli çıktı, başlangıç seviyesinde sade kod ve Türkçe yorumlar.
+- Doğrulama kurallarını (zorunlu alanlar, 3–100 karakter başlık, 500 karakter açıklama,
+  geçerli tarih), klasör yapısını ve fonksiyon adlarını ben tanımladım.
+- Test senaryolarını ve çalışma videosunda gösterilecek adımları ben belirledim.
+- GitHub deposunu oluşturma ve teslim sürecini yönettim.
+- Sunuma hazırlanmak için kodun nasıl çalıştığını (GET/POST farkı, `$_SESSION`, `foreach`,
+  silme akışı, `htmlspecialchars()`) çalıştım.
