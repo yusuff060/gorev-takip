@@ -1,0 +1,14 @@
+# Video kayıt araçları (depoya eklenmez)
+node_modules/
+package.json
+package-lock.json
+video-kayit.js
+video/*.webm
+video/kareler/
+
+# Sunum notları depoya eklenmez
+SUNUM_NOTLARI.md
+
+# Sistem dosyaları
+.DS_Store
+Thumbs.db
